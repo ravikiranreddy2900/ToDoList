@@ -5,6 +5,7 @@ TODOList APP allows to create tasks and delete the tasks and mark the tasks as c
 ## Installation
 
 Install the Node Js Library for installing create-react-scripts to initialize basic react application
+ACcess this app at : http://localhost:3000
 
 ```bash
 npm install create-react-scripts
